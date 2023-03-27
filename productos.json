@@ -1,0 +1,19 @@
+[{
+  "_id": 1,
+  "nombre": "Telefono Iphone 13",
+  "precio": "900",
+  "cantidad": "10 en stock",
+  "categoria": "Electronico"
+},{
+  "_id": 2,
+  "nombre": "Computadora HP",
+  "precio": "560",
+  "cantidad": "7 en stock",
+  "categoria": "Electronico"
+},{
+  "_id": 3,
+  "nombre": "Tablet Samsung",
+  "precio": 65,
+  "cantidad": "11 en stock",
+  "categoria": "Electronico"
+}]
